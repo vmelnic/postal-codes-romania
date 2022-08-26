@@ -10,3 +10,7 @@ Coduri Postale - Baza de date Coduri Postale Romania
 
 - [Румыния Почтовый Индекс](https://ro.postcode.one/ru/coduri-postale/Bucuresti/Bucuresti) (RU)
 - [Coduri Postale Bucuresti](https://ro.postcode.one/coduri-postale/Bucuresti/Bucuresti) (RO)
+
+# Credits
+
+Forked from postal-code/Romania repository.
